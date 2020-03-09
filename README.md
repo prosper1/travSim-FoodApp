@@ -4,3 +4,5 @@
 Rest API for
   * weekly dishes
   * Make Orders
+  * Payment Methods
+  * User Identity and Authentication.
